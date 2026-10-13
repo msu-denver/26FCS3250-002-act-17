@@ -48,7 +48,7 @@ Working together, score each story on effort, then combines effort with user val
 | US10 | Dark mode | 1 |  |  |  |
 | **Total** |  |  |  |  |  |
 
-# Spring Planning
+# Sprint Planning
 
 Place each user story into 5 sprint following these rules:
 
